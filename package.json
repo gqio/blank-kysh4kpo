@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/gq-ws.blank-kysh4kpo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 752ngECsJC5imwEaLH8q --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
